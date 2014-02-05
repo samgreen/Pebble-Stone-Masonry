@@ -1,4 +1,4 @@
-#include "../sg_lib.h"
+#include "../sm_lib.h"
 
 static Window *window;
 static TextLayer *text_layer;
