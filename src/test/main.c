@@ -1,4 +1,4 @@
-#include "../sm_lib.h"
+#include "../masonry.h"
 
 static Window *window;
 static TextLayer *text_layer;

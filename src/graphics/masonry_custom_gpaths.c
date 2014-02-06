@@ -1,4 +1,4 @@
-#include "../sm_lib.h"
+#include "../masonry.h"
 
 // Forward Declarations
 static GPath* create_star_path(uint16_t points, uint16_t radius);
