@@ -1,7 +1,7 @@
 Pebble Stone Masonry Lib
 =============
 
-Awesome utilities to make pebble development simple and easy.
+Awesome utilities to simplify pebble development. Take pride in your stonework and become a master craftsman in Pebble Stonemasonry.
 
 Logging
 ========
