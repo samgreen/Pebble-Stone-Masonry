@@ -10,5 +10,6 @@
 #include "./benchmark/masonry_benchmark.h"
 
 #include "./graphics/masonry_custom_gpaths.h"
+#include "./graphics/masonry_patterns.h"
 #include "./graphics/masonry_grect.h"
 #include "./graphics/masonry_gsize.h"
